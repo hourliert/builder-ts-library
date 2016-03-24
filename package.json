@@ -30,8 +30,8 @@
   "keywords": [
     "builder",
     "archetype",
-    "react",
-    "component"
+    "typescript",
+    "library"
   ],
   "author": "Thomas Hourlier <hourliert@gmail.com> (https://github.com/hourliert)",
   "license": "MIT",
