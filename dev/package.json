@@ -1,0 +1,37 @@
+{
+  "name": "builder-ts-library-dev",
+  "version": "0.0.0",
+  "description": "Builder Archetype - Typescript Library (Development)",
+  "main": "lib/index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hourliert/builder-ts-library.git"
+  },
+  "keywords": [
+    "builder",
+    "archetype",
+    "react",
+    "component"
+  ],
+  "author": "Thomas Hourlier <hourliert@gmail.com> (https://github.com/hourliert)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hourliert/builder-ts-library/issues"
+  },
+  "homepage": "https://github.com/hourliert/builder-ts-library#readme",
+  "dependencies": {
+    "babel-core": "^6.5.0",
+    "babel-eslint": "^5.0.0",
+    "babel-preset-jest": "^1.0.0",
+    "browser-sync": "^2.11.2",
+    "eslint": "^2.4.0",
+    "eslint-config-airbnb": "^6.0.2",
+    "eslint-plugin-react": "^4.2.3",
+    "jest-cli": "^0.9.2",
+    "tslint": "^3.6.0",
+    "typescript": "^1.8.9"
+  },
+  "devDependencies": {},
+  "peerDependencies": {}
+}
