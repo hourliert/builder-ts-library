@@ -7,5 +7,6 @@
    "react",
    "enzyme"
  ],
- "collectCoverage": true
+ "collectCoverage": true,
+ "setupFiles": ["<rootDir>/node_modules/builder-ts-library/config/jest/setup.js"]
 }

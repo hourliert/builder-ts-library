@@ -41,6 +41,7 @@
   },
   "homepage": "https://github.com/hourliert/builder-ts-library#readme",
   "dependencies": {
+    "babel-polyfill": "^6.5.0",
     "babel-cli": "^6.5.0",
     "babel-core": "^6.5.0",
     "babel-plugin-add-module-exports": "^0.1.1",

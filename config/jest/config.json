@@ -6,5 +6,6 @@
  "unmockedModulePathPatterns": [
    "react",
    "enzyme"
- ]
+ ],
+ "setupFiles": ["<rootDir>/node_modules/builder-ts-library/config/jest/setup.js"]
 }
