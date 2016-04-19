@@ -1,6 +1,6 @@
 {
   "name": "builder-ts-library",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Builder Archetype - Typescript Library",
   "main": "lib/index.js",
   "scripts": {
