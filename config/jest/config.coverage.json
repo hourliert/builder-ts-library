@@ -4,8 +4,11 @@
  "testFileExtensions": ["ts", "tsx", "js"],
  "moduleFileExtensions": ["ts", "tsx", "js", "json", "node"],
  "unmockedModulePathPatterns": [
-   "react",
-   "enzyme"
+   "<rootDir>/node_modules/react",
+   "<rootDir>/node_modules/react-dom",
+   "<rootDir>/node_modules/react-addons-test-utils",
+   "<rootDir>/node_modules/enzyme",
+   "<rootDir>/node_modules/immutable"
  ],
  "collectCoverage": true,
  "setupFiles": ["<rootDir>/node_modules/builder-ts-library/config/jest/setup.js"]

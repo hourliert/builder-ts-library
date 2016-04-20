@@ -23,7 +23,7 @@
   "dependencies": {
     "babel-core": "^6.5.0",
     "babel-eslint": "^5.0.0",
-    "babel-preset-jest": "^1.0.0",
+    "babel-preset-jest": "^11.0.0",
     "browser-sync": "^2.11.2",
     "eslint": "^2.4.0",
     "eslint-config-airbnb": "^6.0.2",

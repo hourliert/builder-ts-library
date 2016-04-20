@@ -41,7 +41,6 @@
   },
   "homepage": "https://github.com/hourliert/builder-ts-library#readme",
   "dependencies": {
-    "babel-polyfill": "^6.5.0",
     "babel-cli": "^6.5.0",
     "babel-core": "^6.5.0",
     "babel-plugin-add-module-exports": "^0.1.1",
@@ -69,6 +68,7 @@
     "babel-plugin-transform-es2015-unicode-regex": "^6.5.0",
     "babel-plugin-transform-object-rest-spread": "^6.5.0",
     "babel-plugin-transform-regenerator": "^6.5.0",
+    "babel-polyfill": "^6.5.0",
     "babel-preset-react": "^6.5.0",
     "babel-preset-stage-0": "^6.5.0",
     "gulp": "^3.9.1",
@@ -80,7 +80,7 @@
     "rimraf": "^2.5.2",
     "run-sequence": "^1.1.5",
     "semver": "^5.1.0",
-    "typescript": "^1.8.9",
+    "typescript": "^1.8.10",
     "typings": "^0.7.9"
   },
   "devDependencies": {
