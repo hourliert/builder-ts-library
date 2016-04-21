@@ -1,6 +1,6 @@
 {
   "name": "builder-ts-library-dev",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Builder Archetype - Typescript Library (Development)",
   "main": "lib/index.js",
   "scripts": {},
@@ -22,7 +22,7 @@
   "homepage": "https://github.com/hourliert/builder-ts-library#readme",
   "dependencies": {
     "babel-core": "^6.5.0",
-    "babel-eslint": "^5.0.0",
+    "babel-eslint": "^6.0.0",
     "babel-preset-jest": "^11.0.0",
     "browser-sync": "^2.11.2",
     "eslint": "^2.4.0",
